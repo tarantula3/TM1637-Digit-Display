@@ -1,6 +1,6 @@
 # TM1637-Digit-Display
 
-[![4vDtWafMF0M](https://img.youtube.com/vi/Ob9mrq_Lj9k/0.jpg)](https://www.youtube.com/watch?v=Ob9mrq_Lj9k)
+[![4vDtWafMF0M](https://imgur.com/oqdCzBN.jpg)](https://www.youtube.com/watch?v=Ob9mrq_Lj9k)
 
 In my hand is a 4-Digit 7-Segment display module.
 The heart of this module is an inexpensive Serial LED Driver from Titan Micro Electronics called the TM1637.
